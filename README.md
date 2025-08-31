@@ -1,6 +1,7 @@
 # 🌍 Sun’iy yo‘ldosh tasvirlaridan foydalanib qishloq xo‘jaligi yerlarini chegaralarini aniqlash
 
 <img width="293" height="172" alt="image" src="https://github.com/user-attachments/assets/661c08a7-90d5-49ad-a120-8845f4164076" />
+<img width="1151" height="615" alt="image" src="https://github.com/user-attachments/assets/49b58bff-72ca-4888-8371-409d9be97e66" />
 
 ---
 
@@ -36,3 +37,34 @@ Loyihada asosiy fayllar quyidagicha:
    ```bash
    git clone https://github.com/SardorNigmatov/Sun-iy-yo-ldosh-tasvirlaridan-foydalanib-qishloq-xo-jaligi-yerlarini-chegaralarini-aniqlash.git
    cd Sun-iy-yo-ldosh-tasvirlaridan-foydalanib-qishloq-xo-jaligi-yerlarini-chegaralarini-aniqlash
+
+---
+
+## ▶️ 4. Foydalanish (Usage)
+ - 1. EDA va vizualizatsiya:
+ - jupyter notebook analysis.ipynb
+ - 2. Modelni o‘qitish:
+ - python train.py
+ - 3. Pipeline ishga tushirish:
+ - python main.py
+ - 4. Vizual natijalarni olish:
+ - python draw.py
+ - 5. Baholash:
+ - python metrics.py
+
+## 🗂️ 5. Fayl strukturasi
+- ├── analysis.ipynb
+- ├── main.py
+- ├── train.py
+- ├── model.py
+- ├── metrics.py
+- ├── draw.py
+- ├── utils.py
+- ├── test.py
+- ├── requirements.txt
+- ├── files_Adam/
+- ├── files_Adam1/
+- ├── files_Adam2/
+- └── images/        
+
+## 📊 6. Vizual natijalar
