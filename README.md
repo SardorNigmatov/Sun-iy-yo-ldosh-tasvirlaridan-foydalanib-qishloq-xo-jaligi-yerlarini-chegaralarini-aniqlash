@@ -1,7 +1,6 @@
 # 🌍 Sun’iy yo‘ldosh tasvirlaridan foydalanib qishloq xo‘jaligi yerlarini chegaralarini aniqlash
 
-![Project Banner](<img width="293" height="172" alt="image" src="https://github.com/user-attachments/assets/661c08a7-90d5-49ad-a120-8845f4164076" />
-)  
+<img width="293" height="172" alt="image" src="https://github.com/user-attachments/assets/661c08a7-90d5-49ad-a120-8845f4164076" />
 
 ---
 
