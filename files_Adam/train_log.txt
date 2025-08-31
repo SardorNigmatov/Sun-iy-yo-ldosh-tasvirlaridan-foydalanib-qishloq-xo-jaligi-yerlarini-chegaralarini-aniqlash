@@ -1,0 +1,666 @@
+
+2025-04-03 08:28:06.197818
+Image Size: (256, 256)
+Batch Size: 16
+LR: 0.0001
+Epochs: 150
+Early Stopping Patience: 25
+
+Dataset Size:
+Train: 5254 - Valid: 1126 - Test: 1126
+
+Optimizer: Adam
+Loss: BCE Dice Loss
+
+Valid F1 yaxshilandi: 0.0000 dan 0.8542 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 01 | Epoch Time: 3m 10s
+	Train Loss: 0.6962 - Jaccard: 0.7113 - F1: 0.8191 - Recall: 0.8860 - Precision: 0.7876
+	 Val. Loss: 0.5847 - Jaccard: 0.7607 - F1: 0.8542 - Recall: 0.8895 - Precision: 0.8370
+
+Valid F1 yaxshilandi: 0.8542 dan 0.8814 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 02 | Epoch Time: 3m 19s
+	Train Loss: 0.5405 - Jaccard: 0.7718 - F1: 0.8605 - Recall: 0.9029 - Precision: 0.8415
+	 Val. Loss: 0.4967 - Jaccard: 0.8012 - F1: 0.8814 - Recall: 0.9285 - Precision: 0.8504
+
+Valid F1 yaxshilandi: 0.8814 dan 0.8912 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 03 | Epoch Time: 3m 38s
+	Train Loss: 0.4813 - Jaccard: 0.7962 - F1: 0.8769 - Recall: 0.9122 - Precision: 0.8612
+	 Val. Loss: 0.4490 - Jaccard: 0.8161 - F1: 0.8912 - Recall: 0.9110 - Precision: 0.8834
+
+Epoch: 04 | Epoch Time: 3m 33s
+	Train Loss: 0.4492 - Jaccard: 0.8093 - F1: 0.8854 - Recall: 0.9174 - Precision: 0.8719
+	 Val. Loss: 0.4423 - Jaccard: 0.8164 - F1: 0.8900 - Recall: 0.8977 - Precision: 0.8943
+
+Valid F1 yaxshilandi: 0.8912 dan 0.9066 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 05 | Epoch Time: 3m 27s
+	Train Loss: 0.4208 - Jaccard: 0.8200 - F1: 0.8925 - Recall: 0.9206 - Precision: 0.8807
+	 Val. Loss: 0.3943 - Jaccard: 0.8401 - F1: 0.9066 - Recall: 0.9349 - Precision: 0.8895
+
+Epoch: 06 | Epoch Time: 3m 16s
+	Train Loss: 0.4084 - Jaccard: 0.8257 - F1: 0.8960 - Recall: 0.9231 - Precision: 0.8845
+	 Val. Loss: 0.3966 - Jaccard: 0.8374 - F1: 0.9038 - Recall: 0.9152 - Precision: 0.9021
+
+Valid F1 yaxshilandi: 0.9066 dan 0.9084 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 07 | Epoch Time: 3m 47s
+	Train Loss: 0.3945 - Jaccard: 0.8310 - F1: 0.8992 - Recall: 0.9253 - Precision: 0.8882
+	 Val. Loss: 0.3824 - Jaccard: 0.8428 - F1: 0.9084 - Recall: 0.9252 - Precision: 0.9027
+
+Valid F1 yaxshilandi: 0.9084 dan 0.9102 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 08 | Epoch Time: 3m 41s
+	Train Loss: 0.3844 - Jaccard: 0.8349 - F1: 0.9022 - Recall: 0.9272 - Precision: 0.8913
+	 Val. Loss: 0.3760 - Jaccard: 0.8454 - F1: 0.9102 - Recall: 0.9235 - Precision: 0.9065
+
+Valid F1 yaxshilandi: 0.9102 dan 0.9166 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 09 | Epoch Time: 3m 35s
+	Train Loss: 0.3727 - Jaccard: 0.8400 - F1: 0.9053 - Recall: 0.9297 - Precision: 0.8949
+	 Val. Loss: 0.3588 - Jaccard: 0.8546 - F1: 0.9166 - Recall: 0.9399 - Precision: 0.9018
+
+Valid F1 yaxshilandi: 0.9166 dan 0.9170 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 10 | Epoch Time: 3m 16s
+	Train Loss: 0.3691 - Jaccard: 0.8420 - F1: 0.9065 - Recall: 0.9302 - Precision: 0.8961
+	 Val. Loss: 0.3592 - Jaccard: 0.8552 - F1: 0.9170 - Recall: 0.9302 - Precision: 0.9116
+
+Epoch: 11 | Epoch Time: 3m 15s
+	Train Loss: 0.3537 - Jaccard: 0.8474 - F1: 0.9101 - Recall: 0.9319 - Precision: 0.9010
+	 Val. Loss: 0.3741 - Jaccard: 0.8479 - F1: 0.9119 - Recall: 0.9312 - Precision: 0.9031
+
+Valid F1 yaxshilandi: 0.9170 dan 0.9221 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 12 | Epoch Time: 3m 19s
+	Train Loss: 0.3467 - Jaccard: 0.8501 - F1: 0.9120 - Recall: 0.9340 - Precision: 0.9027
+	 Val. Loss: 0.3377 - Jaccard: 0.8635 - F1: 0.9221 - Recall: 0.9412 - Precision: 0.9105
+
+Valid F1 yaxshilandi: 0.9221 dan 0.9227 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 13 | Epoch Time: 3m 0s
+	Train Loss: 0.3426 - Jaccard: 0.8518 - F1: 0.9130 - Recall: 0.9342 - Precision: 0.9038
+	 Val. Loss: 0.3358 - Jaccard: 0.8642 - F1: 0.9227 - Recall: 0.9439 - Precision: 0.9084
+
+Valid F1 yaxshilandi: 0.9227 dan 0.9233 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 14 | Epoch Time: 3m 7s
+	Train Loss: 0.3355 - Jaccard: 0.8554 - F1: 0.9154 - Recall: 0.9358 - Precision: 0.9063
+	 Val. Loss: 0.3326 - Jaccard: 0.8647 - F1: 0.9233 - Recall: 0.9441 - Precision: 0.9098
+
+Valid F1 yaxshilandi: 0.9233 dan 0.9240 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 15 | Epoch Time: 3m 19s
+	Train Loss: 0.3331 - Jaccard: 0.8555 - F1: 0.9155 - Recall: 0.9356 - Precision: 0.9069
+	 Val. Loss: 0.3281 - Jaccard: 0.8661 - F1: 0.9240 - Recall: 0.9367 - Precision: 0.9179
+
+Epoch: 16 | Epoch Time: 3m 22s
+	Train Loss: 0.3210 - Jaccard: 0.8608 - F1: 0.9193 - Recall: 0.9379 - Precision: 0.9106
+	 Val. Loss: 0.3334 - Jaccard: 0.8664 - F1: 0.9238 - Recall: 0.9524 - Precision: 0.9049
+
+Valid F1 yaxshilandi: 0.9240 dan 0.9268 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 17 | Epoch Time: 2m 59s
+	Train Loss: 0.3160 - Jaccard: 0.8618 - F1: 0.9196 - Recall: 0.9387 - Precision: 0.9112
+	 Val. Loss: 0.3167 - Jaccard: 0.8708 - F1: 0.9268 - Recall: 0.9384 - Precision: 0.9218
+
+Epoch: 18 | Epoch Time: 2m 59s
+	Train Loss: 0.3108 - Jaccard: 0.8651 - F1: 0.9218 - Recall: 0.9402 - Precision: 0.9135
+	 Val. Loss: 0.3178 - Jaccard: 0.8704 - F1: 0.9255 - Recall: 0.9427 - Precision: 0.9166
+
+Epoch: 19 | Epoch Time: 3m 1s
+	Train Loss: 0.3066 - Jaccard: 0.8661 - F1: 0.9222 - Recall: 0.9405 - Precision: 0.9142
+	 Val. Loss: 0.3160 - Jaccard: 0.8709 - F1: 0.9266 - Recall: 0.9469 - Precision: 0.9141
+
+Epoch: 20 | Epoch Time: 3m 5s
+	Train Loss: 0.3052 - Jaccard: 0.8668 - F1: 0.9226 - Recall: 0.9396 - Precision: 0.9151
+	 Val. Loss: 0.3169 - Jaccard: 0.8705 - F1: 0.9262 - Recall: 0.9436 - Precision: 0.9162
+
+Valid F1 yaxshilandi: 0.9268 dan 0.9295 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 21 | Epoch Time: 3m 0s
+	Train Loss: 0.3028 - Jaccard: 0.8678 - F1: 0.9235 - Recall: 0.9408 - Precision: 0.9153
+	 Val. Loss: 0.3130 - Jaccard: 0.8755 - F1: 0.9295 - Recall: 0.9484 - Precision: 0.9175
+
+Epoch: 22 | Epoch Time: 3m 8s
+	Train Loss: 0.2980 - Jaccard: 0.8699 - F1: 0.9247 - Recall: 0.9421 - Precision: 0.9168
+	 Val. Loss: 0.3075 - Jaccard: 0.8729 - F1: 0.9278 - Recall: 0.9398 - Precision: 0.9229
+
+Valid F1 yaxshilandi: 0.9295 dan 0.9308 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 23 | Epoch Time: 3m 1s
+	Train Loss: 0.2941 - Jaccard: 0.8716 - F1: 0.9259 - Recall: 0.9428 - Precision: 0.9181
+	 Val. Loss: 0.3016 - Jaccard: 0.8774 - F1: 0.9308 - Recall: 0.9501 - Precision: 0.9180
+
+Valid F1 yaxshilandi: 0.9308 dan 0.9323 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 24 | Epoch Time: 3m 16s
+	Train Loss: 0.2874 - Jaccard: 0.8739 - F1: 0.9277 - Recall: 0.9437 - Precision: 0.9201
+	 Val. Loss: 0.2972 - Jaccard: 0.8794 - F1: 0.9323 - Recall: 0.9544 - Precision: 0.9171
+
+Epoch: 25 | Epoch Time: 3m 41s
+	Train Loss: 0.2849 - Jaccard: 0.8754 - F1: 0.9283 - Recall: 0.9445 - Precision: 0.9207
+	 Val. Loss: 0.2960 - Jaccard: 0.8797 - F1: 0.9321 - Recall: 0.9472 - Precision: 0.9231
+
+Epoch: 26 | Epoch Time: 2m 59s
+	Train Loss: 0.2808 - Jaccard: 0.8767 - F1: 0.9295 - Recall: 0.9449 - Precision: 0.9218
+	 Val. Loss: 0.3144 - Jaccard: 0.8712 - F1: 0.9265 - Recall: 0.9344 - Precision: 0.9252
+
+Valid F1 yaxshilandi: 0.9323 dan 0.9328 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 27 | Epoch Time: 3m 0s
+	Train Loss: 0.2789 - Jaccard: 0.8777 - F1: 0.9302 - Recall: 0.9454 - Precision: 0.9224
+	 Val. Loss: 0.2960 - Jaccard: 0.8807 - F1: 0.9328 - Recall: 0.9501 - Precision: 0.9216
+
+Epoch: 28 | Epoch Time: 3m 49s
+	Train Loss: 0.2756 - Jaccard: 0.8782 - F1: 0.9306 - Recall: 0.9452 - Precision: 0.9234
+	 Val. Loss: 0.2913 - Jaccard: 0.8812 - F1: 0.9328 - Recall: 0.9459 - Precision: 0.9261
+
+Valid F1 yaxshilandi: 0.9328 dan 0.9358 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 29 | Epoch Time: 3m 1s
+	Train Loss: 0.2725 - Jaccard: 0.8801 - F1: 0.9317 - Recall: 0.9466 - Precision: 0.9243
+	 Val. Loss: 0.2805 - Jaccard: 0.8854 - F1: 0.9358 - Recall: 0.9499 - Precision: 0.9274
+
+Epoch: 30 | Epoch Time: 3m 0s
+	Train Loss: 0.2718 - Jaccard: 0.8802 - F1: 0.9317 - Recall: 0.9463 - Precision: 0.9245
+	 Val. Loss: 0.2877 - Jaccard: 0.8827 - F1: 0.9342 - Recall: 0.9483 - Precision: 0.9254
+
+Epoch: 31 | Epoch Time: 3m 8s
+	Train Loss: 0.2706 - Jaccard: 0.8807 - F1: 0.9320 - Recall: 0.9466 - Precision: 0.9248
+	 Val. Loss: 0.2858 - Jaccard: 0.8841 - F1: 0.9351 - Recall: 0.9542 - Precision: 0.9221
+
+Epoch: 32 | Epoch Time: 3m 15s
+	Train Loss: 0.2689 - Jaccard: 0.8811 - F1: 0.9322 - Recall: 0.9465 - Precision: 0.9255
+	 Val. Loss: 0.2944 - Jaccard: 0.8799 - F1: 0.9323 - Recall: 0.9413 - Precision: 0.9295
+
+Epoch: 33 | Epoch Time: 2m 59s
+	Train Loss: 0.2661 - Jaccard: 0.8823 - F1: 0.9331 - Recall: 0.9465 - Precision: 0.9260
+	 Val. Loss: 0.2942 - Jaccard: 0.8792 - F1: 0.9312 - Recall: 0.9346 - Precision: 0.9349
+
+Epoch: 34 | Epoch Time: 3m 8s
+	Train Loss: 0.2638 - Jaccard: 0.8832 - F1: 0.9334 - Recall: 0.9475 - Precision: 0.9268
+	 Val. Loss: 0.2809 - Jaccard: 0.8854 - F1: 0.9354 - Recall: 0.9517 - Precision: 0.9252
+
+Epoch: 35 | Epoch Time: 3m 56s
+	Train Loss: 0.2628 - Jaccard: 0.8837 - F1: 0.9337 - Recall: 0.9474 - Precision: 0.9268
+	 Val. Loss: 0.2838 - Jaccard: 0.8829 - F1: 0.9339 - Recall: 0.9473 - Precision: 0.9265
+
+Valid F1 yaxshilandi: 0.9358 dan 0.9367 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 36 | Epoch Time: 3m 49s
+	Train Loss: 0.2444 - Jaccard: 0.8903 - F1: 0.9383 - Recall: 0.9504 - Precision: 0.9320
+	 Val. Loss: 0.2771 - Jaccard: 0.8872 - F1: 0.9367 - Recall: 0.9475 - Precision: 0.9320
+
+Valid F1 yaxshilandi: 0.9367 dan 0.9391 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 37 | Epoch Time: 3m 49s
+	Train Loss: 0.2401 - Jaccard: 0.8918 - F1: 0.9392 - Recall: 0.9507 - Precision: 0.9330
+	 Val. Loss: 0.2689 - Jaccard: 0.8905 - F1: 0.9391 - Recall: 0.9514 - Precision: 0.9316
+
+Valid F1 yaxshilandi: 0.9391 dan 0.9398 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 38 | Epoch Time: 3m 49s
+	Train Loss: 0.2388 - Jaccard: 0.8926 - F1: 0.9396 - Recall: 0.9509 - Precision: 0.9333
+	 Val. Loss: 0.2646 - Jaccard: 0.8915 - F1: 0.9398 - Recall: 0.9518 - Precision: 0.9322
+
+Epoch: 39 | Epoch Time: 3m 49s
+	Train Loss: 0.2372 - Jaccard: 0.8940 - F1: 0.9407 - Recall: 0.9522 - Precision: 0.9343
+	 Val. Loss: 0.2657 - Jaccard: 0.8913 - F1: 0.9397 - Recall: 0.9512 - Precision: 0.9329
+
+Epoch: 40 | Epoch Time: 3m 50s
+	Train Loss: 0.2374 - Jaccard: 0.8938 - F1: 0.9404 - Recall: 0.9516 - Precision: 0.9339
+	 Val. Loss: 0.2651 - Jaccard: 0.8918 - F1: 0.9398 - Recall: 0.9533 - Precision: 0.9309
+
+Valid F1 yaxshilandi: 0.9398 dan 0.9405 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 41 | Epoch Time: 3m 49s
+	Train Loss: 0.2343 - Jaccard: 0.8945 - F1: 0.9409 - Recall: 0.9517 - Precision: 0.9350
+	 Val. Loss: 0.2626 - Jaccard: 0.8926 - F1: 0.9405 - Recall: 0.9531 - Precision: 0.9327
+
+Epoch: 42 | Epoch Time: 3m 50s
+	Train Loss: 0.2324 - Jaccard: 0.8955 - F1: 0.9416 - Recall: 0.9525 - Precision: 0.9352
+	 Val. Loss: 0.2687 - Jaccard: 0.8902 - F1: 0.9388 - Recall: 0.9555 - Precision: 0.9268
+
+Epoch: 43 | Epoch Time: 3m 50s
+	Train Loss: 0.2319 - Jaccard: 0.8954 - F1: 0.9413 - Recall: 0.9522 - Precision: 0.9352
+	 Val. Loss: 0.2676 - Jaccard: 0.8909 - F1: 0.9392 - Recall: 0.9552 - Precision: 0.9280
+
+Valid F1 yaxshilandi: 0.9405 dan 0.9407 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 44 | Epoch Time: 3m 49s
+	Train Loss: 0.2299 - Jaccard: 0.8962 - F1: 0.9421 - Recall: 0.9525 - Precision: 0.9364
+	 Val. Loss: 0.2599 - Jaccard: 0.8930 - F1: 0.9407 - Recall: 0.9509 - Precision: 0.9351
+
+Valid F1 yaxshilandi: 0.9407 dan 0.9412 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 45 | Epoch Time: 3m 50s
+	Train Loss: 0.2287 - Jaccard: 0.8969 - F1: 0.9426 - Recall: 0.9534 - Precision: 0.9361
+	 Val. Loss: 0.2598 - Jaccard: 0.8940 - F1: 0.9412 - Recall: 0.9547 - Precision: 0.9323
+
+Epoch: 46 | Epoch Time: 3m 49s
+	Train Loss: 0.2301 - Jaccard: 0.8965 - F1: 0.9425 - Recall: 0.9530 - Precision: 0.9362
+	 Val. Loss: 0.2637 - Jaccard: 0.8924 - F1: 0.9402 - Recall: 0.9569 - Precision: 0.9281
+
+Epoch: 47 | Epoch Time: 3m 48s
+	Train Loss: 0.2289 - Jaccard: 0.8966 - F1: 0.9421 - Recall: 0.9525 - Precision: 0.9364
+	 Val. Loss: 0.2625 - Jaccard: 0.8934 - F1: 0.9406 - Recall: 0.9536 - Precision: 0.9323
+
+Valid F1 yaxshilandi: 0.9412 dan 0.9424 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 48 | Epoch Time: 3m 47s
+	Train Loss: 0.2267 - Jaccard: 0.8977 - F1: 0.9429 - Recall: 0.9533 - Precision: 0.9371
+	 Val. Loss: 0.2552 - Jaccard: 0.8956 - F1: 0.9424 - Recall: 0.9533 - Precision: 0.9356
+
+Epoch: 49 | Epoch Time: 3m 47s
+	Train Loss: 0.2236 - Jaccard: 0.8992 - F1: 0.9440 - Recall: 0.9542 - Precision: 0.9382
+	 Val. Loss: 0.2618 - Jaccard: 0.8932 - F1: 0.9405 - Recall: 0.9550 - Precision: 0.9306
+
+Epoch: 50 | Epoch Time: 3m 47s
+	Train Loss: 0.2272 - Jaccard: 0.8976 - F1: 0.9429 - Recall: 0.9532 - Precision: 0.9367
+	 Val. Loss: 0.2604 - Jaccard: 0.8934 - F1: 0.9408 - Recall: 0.9528 - Precision: 0.9331
+
+Epoch: 51 | Epoch Time: 3m 47s
+	Train Loss: 0.2244 - Jaccard: 0.8994 - F1: 0.9442 - Recall: 0.9541 - Precision: 0.9384
+	 Val. Loss: 0.2631 - Jaccard: 0.8941 - F1: 0.9411 - Recall: 0.9532 - Precision: 0.9330
+
+Epoch: 52 | Epoch Time: 3m 47s
+	Train Loss: 0.2286 - Jaccard: 0.8971 - F1: 0.9427 - Recall: 0.9526 - Precision: 0.9369
+	 Val. Loss: 0.2607 - Jaccard: 0.8951 - F1: 0.9420 - Recall: 0.9583 - Precision: 0.9304
+
+Epoch: 53 | Epoch Time: 3m 47s
+	Train Loss: 0.2234 - Jaccard: 0.8992 - F1: 0.9439 - Recall: 0.9542 - Precision: 0.9379
+	 Val. Loss: 0.2574 - Jaccard: 0.8938 - F1: 0.9410 - Recall: 0.9560 - Precision: 0.9308
+
+Epoch: 54 | Epoch Time: 3m 47s
+	Train Loss: 0.2232 - Jaccard: 0.8989 - F1: 0.9434 - Recall: 0.9535 - Precision: 0.9376
+	 Val. Loss: 0.2647 - Jaccard: 0.8919 - F1: 0.9401 - Recall: 0.9541 - Precision: 0.9309
+
+Valid F1 yaxshilandi: 0.9424 dan 0.9440 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 55 | Epoch Time: 3m 47s
+	Train Loss: 0.2138 - Jaccard: 0.9031 - F1: 0.9464 - Recall: 0.9553 - Precision: 0.9408
+	 Val. Loss: 0.2484 - Jaccard: 0.8983 - F1: 0.9440 - Recall: 0.9545 - Precision: 0.9372
+
+Epoch: 56 | Epoch Time: 3m 48s
+	Train Loss: 0.2124 - Jaccard: 0.9042 - F1: 0.9472 - Recall: 0.9557 - Precision: 0.9420
+	 Val. Loss: 0.2491 - Jaccard: 0.8982 - F1: 0.9439 - Recall: 0.9564 - Precision: 0.9353
+
+Epoch: 57 | Epoch Time: 3m 48s
+	Train Loss: 0.2115 - Jaccard: 0.9043 - F1: 0.9473 - Recall: 0.9561 - Precision: 0.9418
+	 Val. Loss: 0.2473 - Jaccard: 0.8983 - F1: 0.9438 - Recall: 0.9563 - Precision: 0.9354
+
+Valid F1 yaxshilandi: 0.9440 dan 0.9448 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 58 | Epoch Time: 3m 47s
+	Train Loss: 0.2102 - Jaccard: 0.9048 - F1: 0.9475 - Recall: 0.9560 - Precision: 0.9419
+	 Val. Loss: 0.2447 - Jaccard: 0.8994 - F1: 0.9448 - Recall: 0.9563 - Precision: 0.9368
+
+Epoch: 59 | Epoch Time: 3m 24s
+	Train Loss: 0.2107 - Jaccard: 0.9050 - F1: 0.9475 - Recall: 0.9559 - Precision: 0.9423
+	 Val. Loss: 0.2468 - Jaccard: 0.8983 - F1: 0.9439 - Recall: 0.9530 - Precision: 0.9385
+
+Epoch: 60 | Epoch Time: 3m 0s
+	Train Loss: 0.2097 - Jaccard: 0.9048 - F1: 0.9475 - Recall: 0.9561 - Precision: 0.9425
+	 Val. Loss: 0.2452 - Jaccard: 0.8991 - F1: 0.9445 - Recall: 0.9577 - Precision: 0.9351
+
+Epoch: 61 | Epoch Time: 3m 0s
+	Train Loss: 0.2072 - Jaccard: 0.9054 - F1: 0.9478 - Recall: 0.9562 - Precision: 0.9425
+	 Val. Loss: 0.2466 - Jaccard: 0.8989 - F1: 0.9445 - Recall: 0.9594 - Precision: 0.9333
+
+Epoch: 62 | Epoch Time: 2m 59s
+	Train Loss: 0.2075 - Jaccard: 0.9061 - F1: 0.9484 - Recall: 0.9569 - Precision: 0.9429
+	 Val. Loss: 0.2469 - Jaccard: 0.8978 - F1: 0.9438 - Recall: 0.9544 - Precision: 0.9367
+
+Epoch: 63 | Epoch Time: 2m 59s
+	Train Loss: 0.2062 - Jaccard: 0.9065 - F1: 0.9486 - Recall: 0.9569 - Precision: 0.9433
+	 Val. Loss: 0.2459 - Jaccard: 0.8986 - F1: 0.9443 - Recall: 0.9541 - Precision: 0.9379
+
+Valid F1 yaxshilandi: 0.9448 dan 0.9450 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 64 | Epoch Time: 2m 59s
+	Train Loss: 0.2051 - Jaccard: 0.9067 - F1: 0.9486 - Recall: 0.9569 - Precision: 0.9432
+	 Val. Loss: 0.2449 - Jaccard: 0.8998 - F1: 0.9450 - Recall: 0.9549 - Precision: 0.9386
+
+Valid F1 yaxshilandi: 0.9450 dan 0.9456 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 65 | Epoch Time: 3m 0s
+	Train Loss: 0.2013 - Jaccard: 0.9087 - F1: 0.9499 - Recall: 0.9579 - Precision: 0.9448
+	 Val. Loss: 0.2407 - Jaccard: 0.9009 - F1: 0.9456 - Recall: 0.9556 - Precision: 0.9391
+
+Valid F1 yaxshilandi: 0.9456 dan 0.9463 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 66 | Epoch Time: 2m 59s
+	Train Loss: 0.1985 - Jaccard: 0.9093 - F1: 0.9503 - Recall: 0.9582 - Precision: 0.9451
+	 Val. Loss: 0.2388 - Jaccard: 0.9019 - F1: 0.9463 - Recall: 0.9595 - Precision: 0.9363
+
+Valid F1 yaxshilandi: 0.9463 dan 0.9465 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 67 | Epoch Time: 2m 59s
+	Train Loss: 0.2008 - Jaccard: 0.9092 - F1: 0.9503 - Recall: 0.9584 - Precision: 0.9449
+	 Val. Loss: 0.2386 - Jaccard: 0.9022 - F1: 0.9465 - Recall: 0.9589 - Precision: 0.9371
+
+Epoch: 68 | Epoch Time: 2m 59s
+	Train Loss: 0.1971 - Jaccard: 0.9100 - F1: 0.9506 - Recall: 0.9583 - Precision: 0.9455
+	 Val. Loss: 0.2415 - Jaccard: 0.9016 - F1: 0.9460 - Recall: 0.9568 - Precision: 0.9389
+
+Valid F1 yaxshilandi: 0.9465 dan 0.9466 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 69 | Epoch Time: 2m 58s
+	Train Loss: 0.1971 - Jaccard: 0.9101 - F1: 0.9508 - Recall: 0.9586 - Precision: 0.9456
+	 Val. Loss: 0.2362 - Jaccard: 0.9026 - F1: 0.9466 - Recall: 0.9557 - Precision: 0.9406
+
+Epoch: 70 | Epoch Time: 2m 58s
+	Train Loss: 0.1981 - Jaccard: 0.9098 - F1: 0.9505 - Recall: 0.9585 - Precision: 0.9452
+	 Val. Loss: 0.2366 - Jaccard: 0.9023 - F1: 0.9463 - Recall: 0.9566 - Precision: 0.9393
+
+Valid F1 yaxshilandi: 0.9466 dan 0.9466 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 71 | Epoch Time: 3m 0s
+	Train Loss: 0.1978 - Jaccard: 0.9099 - F1: 0.9507 - Recall: 0.9585 - Precision: 0.9456
+	 Val. Loss: 0.2369 - Jaccard: 0.9024 - F1: 0.9466 - Recall: 0.9574 - Precision: 0.9389
+
+Valid F1 yaxshilandi: 0.9466 dan 0.9467 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 72 | Epoch Time: 2m 59s
+	Train Loss: 0.1958 - Jaccard: 0.9107 - F1: 0.9512 - Recall: 0.9588 - Precision: 0.9459
+	 Val. Loss: 0.2373 - Jaccard: 0.9025 - F1: 0.9467 - Recall: 0.9552 - Precision: 0.9410
+
+Valid F1 yaxshilandi: 0.9467 dan 0.9470 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 73 | Epoch Time: 2m 59s
+	Train Loss: 0.1970 - Jaccard: 0.9099 - F1: 0.9505 - Recall: 0.9585 - Precision: 0.9453
+	 Val. Loss: 0.2363 - Jaccard: 0.9031 - F1: 0.9470 - Recall: 0.9575 - Precision: 0.9395
+
+Epoch: 74 | Epoch Time: 2m 59s
+	Train Loss: 0.1953 - Jaccard: 0.9109 - F1: 0.9514 - Recall: 0.9590 - Precision: 0.9463
+	 Val. Loss: 0.2368 - Jaccard: 0.9029 - F1: 0.9468 - Recall: 0.9574 - Precision: 0.9393
+
+Valid F1 yaxshilandi: 0.9470 dan 0.9472 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 75 | Epoch Time: 2m 59s
+	Train Loss: 0.1957 - Jaccard: 0.9107 - F1: 0.9512 - Recall: 0.9593 - Precision: 0.9456
+	 Val. Loss: 0.2379 - Jaccard: 0.9036 - F1: 0.9472 - Recall: 0.9591 - Precision: 0.9385
+
+Epoch: 76 | Epoch Time: 2m 59s
+	Train Loss: 0.1939 - Jaccard: 0.9113 - F1: 0.9516 - Recall: 0.9591 - Precision: 0.9464
+	 Val. Loss: 0.2364 - Jaccard: 0.9032 - F1: 0.9470 - Recall: 0.9546 - Precision: 0.9421
+
+Valid F1 yaxshilandi: 0.9472 dan 0.9474 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 77 | Epoch Time: 2m 58s
+	Train Loss: 0.1940 - Jaccard: 0.9114 - F1: 0.9515 - Recall: 0.9588 - Precision: 0.9468
+	 Val. Loss: 0.2349 - Jaccard: 0.9038 - F1: 0.9474 - Recall: 0.9559 - Precision: 0.9417
+
+Epoch: 78 | Epoch Time: 3m 0s
+	Train Loss: 0.1917 - Jaccard: 0.9128 - F1: 0.9525 - Recall: 0.9600 - Precision: 0.9473
+	 Val. Loss: 0.2359 - Jaccard: 0.9033 - F1: 0.9470 - Recall: 0.9548 - Precision: 0.9421
+
+Valid F1 yaxshilandi: 0.9474 dan 0.9476 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 79 | Epoch Time: 2m 59s
+	Train Loss: 0.1920 - Jaccard: 0.9124 - F1: 0.9522 - Recall: 0.9593 - Precision: 0.9475
+	 Val. Loss: 0.2361 - Jaccard: 0.9041 - F1: 0.9476 - Recall: 0.9602 - Precision: 0.9380
+
+Valid F1 yaxshilandi: 0.9476 dan 0.9476 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 80 | Epoch Time: 2m 59s
+	Train Loss: 0.1924 - Jaccard: 0.9122 - F1: 0.9522 - Recall: 0.9599 - Precision: 0.9467
+	 Val. Loss: 0.2349 - Jaccard: 0.9042 - F1: 0.9476 - Recall: 0.9601 - Precision: 0.9381
+
+Epoch: 81 | Epoch Time: 2m 57s
+	Train Loss: 0.1925 - Jaccard: 0.9122 - F1: 0.9522 - Recall: 0.9595 - Precision: 0.9471
+	 Val. Loss: 0.2356 - Jaccard: 0.9042 - F1: 0.9475 - Recall: 0.9597 - Precision: 0.9385
+
+Epoch: 82 | Epoch Time: 2m 58s
+	Train Loss: 0.1916 - Jaccard: 0.9125 - F1: 0.9522 - Recall: 0.9596 - Precision: 0.9472
+	 Val. Loss: 0.2361 - Jaccard: 0.9041 - F1: 0.9474 - Recall: 0.9585 - Precision: 0.9394
+
+Epoch: 83 | Epoch Time: 2m 58s
+	Train Loss: 0.1918 - Jaccard: 0.9126 - F1: 0.9524 - Recall: 0.9597 - Precision: 0.9475
+	 Val. Loss: 0.2344 - Jaccard: 0.9041 - F1: 0.9475 - Recall: 0.9589 - Precision: 0.9391
+
+Epoch: 84 | Epoch Time: 2m 58s
+	Train Loss: 0.1901 - Jaccard: 0.9133 - F1: 0.9528 - Recall: 0.9600 - Precision: 0.9478
+	 Val. Loss: 0.2363 - Jaccard: 0.9036 - F1: 0.9471 - Recall: 0.9578 - Precision: 0.9395
+
+Valid F1 yaxshilandi: 0.9476 dan 0.9476 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 85 | Epoch Time: 2m 59s
+	Train Loss: 0.1900 - Jaccard: 0.9129 - F1: 0.9525 - Recall: 0.9597 - Precision: 0.9475
+	 Val. Loss: 0.2351 - Jaccard: 0.9043 - F1: 0.9476 - Recall: 0.9568 - Precision: 0.9412
+
+Epoch: 86 | Epoch Time: 2m 59s
+	Train Loss: 0.1931 - Jaccard: 0.9127 - F1: 0.9524 - Recall: 0.9597 - Precision: 0.9473
+	 Val. Loss: 0.2388 - Jaccard: 0.9035 - F1: 0.9471 - Recall: 0.9585 - Precision: 0.9386
+
+Epoch: 87 | Epoch Time: 2m 59s
+	Train Loss: 0.1899 - Jaccard: 0.9131 - F1: 0.9527 - Recall: 0.9598 - Precision: 0.9476
+	 Val. Loss: 0.2373 - Jaccard: 0.9031 - F1: 0.9467 - Recall: 0.9564 - Precision: 0.9402
+
+Valid F1 yaxshilandi: 0.9476 dan 0.9476 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 88 | Epoch Time: 2m 59s
+	Train Loss: 0.1914 - Jaccard: 0.9127 - F1: 0.9525 - Recall: 0.9600 - Precision: 0.9471
+	 Val. Loss: 0.2357 - Jaccard: 0.9041 - F1: 0.9476 - Recall: 0.9614 - Precision: 0.9368
+
+Valid F1 yaxshilandi: 0.9476 dan 0.9477 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 89 | Epoch Time: 2m 58s
+	Train Loss: 0.1893 - Jaccard: 0.9139 - F1: 0.9533 - Recall: 0.9603 - Precision: 0.9486
+	 Val. Loss: 0.2346 - Jaccard: 0.9043 - F1: 0.9477 - Recall: 0.9584 - Precision: 0.9400
+
+Valid F1 yaxshilandi: 0.9477 dan 0.9477 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 90 | Epoch Time: 3m 31s
+	Train Loss: 0.1896 - Jaccard: 0.9132 - F1: 0.9527 - Recall: 0.9600 - Precision: 0.9478
+	 Val. Loss: 0.2329 - Jaccard: 0.9044 - F1: 0.9477 - Recall: 0.9568 - Precision: 0.9415
+
+Valid F1 yaxshilandi: 0.9477 dan 0.9481 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 91 | Epoch Time: 3m 48s
+	Train Loss: 0.1889 - Jaccard: 0.9135 - F1: 0.9529 - Recall: 0.9601 - Precision: 0.9481
+	 Val. Loss: 0.2324 - Jaccard: 0.9049 - F1: 0.9481 - Recall: 0.9575 - Precision: 0.9413
+
+Epoch: 92 | Epoch Time: 3m 2s
+	Train Loss: 0.1889 - Jaccard: 0.9136 - F1: 0.9529 - Recall: 0.9602 - Precision: 0.9480
+	 Val. Loss: 0.2347 - Jaccard: 0.9044 - F1: 0.9476 - Recall: 0.9585 - Precision: 0.9398
+
+Epoch: 93 | Epoch Time: 2m 59s
+	Train Loss: 0.1889 - Jaccard: 0.9137 - F1: 0.9531 - Recall: 0.9603 - Precision: 0.9480
+	 Val. Loss: 0.2331 - Jaccard: 0.9047 - F1: 0.9479 - Recall: 0.9571 - Precision: 0.9414
+
+Valid F1 yaxshilandi: 0.9481 dan 0.9484 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 94 | Epoch Time: 2m 59s
+	Train Loss: 0.1878 - Jaccard: 0.9145 - F1: 0.9537 - Recall: 0.9606 - Precision: 0.9484
+	 Val. Loss: 0.2320 - Jaccard: 0.9055 - F1: 0.9484 - Recall: 0.9599 - Precision: 0.9398
+
+Epoch: 95 | Epoch Time: 3m 0s
+	Train Loss: 0.1897 - Jaccard: 0.9136 - F1: 0.9530 - Recall: 0.9602 - Precision: 0.9479
+	 Val. Loss: 0.2327 - Jaccard: 0.9050 - F1: 0.9481 - Recall: 0.9568 - Precision: 0.9421
+
+Epoch: 96 | Epoch Time: 2m 59s
+	Train Loss: 0.1895 - Jaccard: 0.9130 - F1: 0.9525 - Recall: 0.9598 - Precision: 0.9474
+	 Val. Loss: 0.2325 - Jaccard: 0.9054 - F1: 0.9483 - Recall: 0.9585 - Precision: 0.9409
+
+Epoch: 97 | Epoch Time: 2m 59s
+	Train Loss: 0.1921 - Jaccard: 0.9132 - F1: 0.9525 - Recall: 0.9602 - Precision: 0.9473
+	 Val. Loss: 0.2379 - Jaccard: 0.9047 - F1: 0.9480 - Recall: 0.9652 - Precision: 0.9340
+
+Epoch: 98 | Epoch Time: 2m 59s
+	Train Loss: 0.1890 - Jaccard: 0.9137 - F1: 0.9532 - Recall: 0.9598 - Precision: 0.9484
+	 Val. Loss: 0.2333 - Jaccard: 0.9051 - F1: 0.9481 - Recall: 0.9588 - Precision: 0.9403
+
+Epoch: 99 | Epoch Time: 3m 0s
+	Train Loss: 0.1873 - Jaccard: 0.9141 - F1: 0.9532 - Recall: 0.9604 - Precision: 0.9484
+	 Val. Loss: 0.2330 - Jaccard: 0.9053 - F1: 0.9482 - Recall: 0.9603 - Precision: 0.9393
+
+Epoch: 100 | Epoch Time: 2m 59s
+	Train Loss: 0.1875 - Jaccard: 0.9140 - F1: 0.9532 - Recall: 0.9605 - Precision: 0.9483
+	 Val. Loss: 0.2336 - Jaccard: 0.9050 - F1: 0.9481 - Recall: 0.9575 - Precision: 0.9415
+
+Epoch: 101 | Epoch Time: 2m 59s
+	Train Loss: 0.1876 - Jaccard: 0.9145 - F1: 0.9536 - Recall: 0.9606 - Precision: 0.9487
+	 Val. Loss: 0.2328 - Jaccard: 0.9052 - F1: 0.9482 - Recall: 0.9582 - Precision: 0.9410
+
+Epoch: 102 | Epoch Time: 2m 59s
+	Train Loss: 0.1869 - Jaccard: 0.9145 - F1: 0.9536 - Recall: 0.9605 - Precision: 0.9487
+	 Val. Loss: 0.2322 - Jaccard: 0.9054 - F1: 0.9484 - Recall: 0.9627 - Precision: 0.9371
+
+Valid F1 yaxshilandi: 0.9484 dan 0.9484 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 103 | Epoch Time: 2m 59s
+	Train Loss: 0.1873 - Jaccard: 0.9142 - F1: 0.9533 - Recall: 0.9600 - Precision: 0.9487
+	 Val. Loss: 0.2321 - Jaccard: 0.9056 - F1: 0.9484 - Recall: 0.9597 - Precision: 0.9401
+
+Epoch: 104 | Epoch Time: 2m 59s
+	Train Loss: 0.1871 - Jaccard: 0.9144 - F1: 0.9534 - Recall: 0.9605 - Precision: 0.9485
+	 Val. Loss: 0.2323 - Jaccard: 0.9054 - F1: 0.9483 - Recall: 0.9610 - Precision: 0.9386
+
+Valid F1 yaxshilandi: 0.9484 dan 0.9485 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 105 | Epoch Time: 2m 59s
+	Train Loss: 0.1863 - Jaccard: 0.9147 - F1: 0.9536 - Recall: 0.9609 - Precision: 0.9486
+	 Val. Loss: 0.2321 - Jaccard: 0.9056 - F1: 0.9485 - Recall: 0.9604 - Precision: 0.9393
+
+Epoch: 106 | Epoch Time: 3m 0s
+	Train Loss: 0.1870 - Jaccard: 0.9144 - F1: 0.9535 - Recall: 0.9603 - Precision: 0.9487
+	 Val. Loss: 0.2327 - Jaccard: 0.9051 - F1: 0.9481 - Recall: 0.9579 - Precision: 0.9411
+
+Epoch: 107 | Epoch Time: 3m 0s
+	Train Loss: 0.1869 - Jaccard: 0.9148 - F1: 0.9538 - Recall: 0.9603 - Precision: 0.9490
+	 Val. Loss: 0.2339 - Jaccard: 0.9050 - F1: 0.9480 - Recall: 0.9588 - Precision: 0.9401
+
+Epoch: 108 | Epoch Time: 3m 1s
+	Train Loss: 0.1878 - Jaccard: 0.9145 - F1: 0.9536 - Recall: 0.9608 - Precision: 0.9484
+	 Val. Loss: 0.2351 - Jaccard: 0.9053 - F1: 0.9482 - Recall: 0.9634 - Precision: 0.9362
+
+Epoch: 109 | Epoch Time: 3m 1s
+	Train Loss: 0.1876 - Jaccard: 0.9141 - F1: 0.9533 - Recall: 0.9602 - Precision: 0.9485
+	 Val. Loss: 0.2338 - Jaccard: 0.9051 - F1: 0.9481 - Recall: 0.9583 - Precision: 0.9408
+
+Epoch: 110 | Epoch Time: 3m 0s
+	Train Loss: 0.1858 - Jaccard: 0.9151 - F1: 0.9540 - Recall: 0.9608 - Precision: 0.9490
+	 Val. Loss: 0.2323 - Jaccard: 0.9056 - F1: 0.9484 - Recall: 0.9605 - Precision: 0.9391
+
+Epoch: 111 | Epoch Time: 3m 0s
+	Train Loss: 0.1871 - Jaccard: 0.9143 - F1: 0.9535 - Recall: 0.9604 - Precision: 0.9485
+	 Val. Loss: 0.2314 - Jaccard: 0.9056 - F1: 0.9484 - Recall: 0.9585 - Precision: 0.9411
+
+Epoch: 112 | Epoch Time: 3m 0s
+	Train Loss: 0.1879 - Jaccard: 0.9142 - F1: 0.9534 - Recall: 0.9604 - Precision: 0.9484
+	 Val. Loss: 0.2332 - Jaccard: 0.9054 - F1: 0.9483 - Recall: 0.9608 - Precision: 0.9388
+
+Valid F1 yaxshilandi: 0.9485 dan 0.9485 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 113 | Epoch Time: 3m 0s
+	Train Loss: 0.1876 - Jaccard: 0.9144 - F1: 0.9534 - Recall: 0.9603 - Precision: 0.9487
+	 Val. Loss: 0.2318 - Jaccard: 0.9056 - F1: 0.9485 - Recall: 0.9591 - Precision: 0.9407
+
+Epoch: 114 | Epoch Time: 2m 59s
+	Train Loss: 0.1859 - Jaccard: 0.9148 - F1: 0.9537 - Recall: 0.9609 - Precision: 0.9486
+	 Val. Loss: 0.2336 - Jaccard: 0.9054 - F1: 0.9483 - Recall: 0.9592 - Precision: 0.9402
+
+Epoch: 115 | Epoch Time: 2m 59s
+	Train Loss: 0.1859 - Jaccard: 0.9154 - F1: 0.9541 - Recall: 0.9608 - Precision: 0.9493
+	 Val. Loss: 0.2335 - Jaccard: 0.9054 - F1: 0.9483 - Recall: 0.9591 - Precision: 0.9403
+
+Epoch: 116 | Epoch Time: 2m 59s
+	Train Loss: 0.1865 - Jaccard: 0.9148 - F1: 0.9538 - Recall: 0.9608 - Precision: 0.9489
+	 Val. Loss: 0.2328 - Jaccard: 0.9053 - F1: 0.9483 - Recall: 0.9602 - Precision: 0.9392
+
+Valid F1 yaxshilandi: 0.9485 dan 0.9485 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 117 | Epoch Time: 2m 59s
+	Train Loss: 0.1864 - Jaccard: 0.9150 - F1: 0.9540 - Recall: 0.9605 - Precision: 0.9492
+	 Val. Loss: 0.2311 - Jaccard: 0.9057 - F1: 0.9485 - Recall: 0.9588 - Precision: 0.9409
+
+Epoch: 118 | Epoch Time: 2m 59s
+	Train Loss: 0.1857 - Jaccard: 0.9152 - F1: 0.9540 - Recall: 0.9610 - Precision: 0.9490
+	 Val. Loss: 0.2324 - Jaccard: 0.9056 - F1: 0.9484 - Recall: 0.9588 - Precision: 0.9409
+
+Epoch: 119 | Epoch Time: 2m 59s
+	Train Loss: 0.1911 - Jaccard: 0.9139 - F1: 0.9532 - Recall: 0.9603 - Precision: 0.9480
+	 Val. Loss: 0.2358 - Jaccard: 0.9053 - F1: 0.9483 - Recall: 0.9592 - Precision: 0.9400
+
+Epoch: 120 | Epoch Time: 2m 59s
+	Train Loss: 0.1869 - Jaccard: 0.9145 - F1: 0.9535 - Recall: 0.9603 - Precision: 0.9489
+	 Val. Loss: 0.2334 - Jaccard: 0.9049 - F1: 0.9480 - Recall: 0.9568 - Precision: 0.9419
+
+Epoch: 121 | Epoch Time: 2m 59s
+	Train Loss: 0.1859 - Jaccard: 0.9152 - F1: 0.9541 - Recall: 0.9608 - Precision: 0.9493
+	 Val. Loss: 0.2340 - Jaccard: 0.9053 - F1: 0.9482 - Recall: 0.9583 - Precision: 0.9409
+
+Epoch: 122 | Epoch Time: 3m 2s
+	Train Loss: 0.1867 - Jaccard: 0.9153 - F1: 0.9542 - Recall: 0.9607 - Precision: 0.9494
+	 Val. Loss: 0.2316 - Jaccard: 0.9057 - F1: 0.9485 - Recall: 0.9593 - Precision: 0.9403
+
+Valid F1 yaxshilandi: 0.9485 dan 0.9485 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 123 | Epoch Time: 2m 58s
+	Train Loss: 0.1873 - Jaccard: 0.9144 - F1: 0.9533 - Recall: 0.9605 - Precision: 0.9482
+	 Val. Loss: 0.2327 - Jaccard: 0.9057 - F1: 0.9485 - Recall: 0.9602 - Precision: 0.9396
+
+Epoch: 124 | Epoch Time: 3m 2s
+	Train Loss: 0.1874 - Jaccard: 0.9148 - F1: 0.9537 - Recall: 0.9610 - Precision: 0.9484
+	 Val. Loss: 0.2323 - Jaccard: 0.9052 - F1: 0.9482 - Recall: 0.9581 - Precision: 0.9411
+
+Epoch: 125 | Epoch Time: 3m 2s
+	Train Loss: 0.1866 - Jaccard: 0.9151 - F1: 0.9540 - Recall: 0.9609 - Precision: 0.9492
+	 Val. Loss: 0.2339 - Jaccard: 0.9053 - F1: 0.9483 - Recall: 0.9607 - Precision: 0.9388
+
+Epoch: 126 | Epoch Time: 3m 11s
+	Train Loss: 0.1860 - Jaccard: 0.9148 - F1: 0.9537 - Recall: 0.9604 - Precision: 0.9492
+	 Val. Loss: 0.2329 - Jaccard: 0.9052 - F1: 0.9481 - Recall: 0.9591 - Precision: 0.9401
+
+Epoch: 127 | Epoch Time: 2m 58s
+	Train Loss: 0.1856 - Jaccard: 0.9151 - F1: 0.9540 - Recall: 0.9609 - Precision: 0.9490
+	 Val. Loss: 0.2315 - Jaccard: 0.9056 - F1: 0.9484 - Recall: 0.9569 - Precision: 0.9425
+
+Epoch: 128 | Epoch Time: 2m 59s
+	Train Loss: 0.1858 - Jaccard: 0.9151 - F1: 0.9540 - Recall: 0.9613 - Precision: 0.9486
+	 Val. Loss: 0.2324 - Jaccard: 0.9052 - F1: 0.9481 - Recall: 0.9577 - Precision: 0.9413
+
+Epoch: 129 | Epoch Time: 2m 59s
+	Train Loss: 0.1866 - Jaccard: 0.9146 - F1: 0.9535 - Recall: 0.9608 - Precision: 0.9484
+	 Val. Loss: 0.2332 - Jaccard: 0.9055 - F1: 0.9484 - Recall: 0.9585 - Precision: 0.9410
+
+Epoch: 130 | Epoch Time: 2m 59s
+	Train Loss: 0.1866 - Jaccard: 0.9148 - F1: 0.9538 - Recall: 0.9602 - Precision: 0.9493
+	 Val. Loss: 0.2329 - Jaccard: 0.9053 - F1: 0.9482 - Recall: 0.9601 - Precision: 0.9392
+
+Epoch: 131 | Epoch Time: 2m 58s
+	Train Loss: 0.1853 - Jaccard: 0.9150 - F1: 0.9540 - Recall: 0.9607 - Precision: 0.9493
+	 Val. Loss: 0.2335 - Jaccard: 0.9057 - F1: 0.9485 - Recall: 0.9586 - Precision: 0.9412
+
+Epoch: 132 | Epoch Time: 2m 58s
+	Train Loss: 0.1865 - Jaccard: 0.9148 - F1: 0.9538 - Recall: 0.9610 - Precision: 0.9487
+	 Val. Loss: 0.2341 - Jaccard: 0.9052 - F1: 0.9481 - Recall: 0.9603 - Precision: 0.9389
+
+Epoch: 133 | Epoch Time: 2m 58s
+	Train Loss: 0.1855 - Jaccard: 0.9151 - F1: 0.9540 - Recall: 0.9610 - Precision: 0.9489
+	 Val. Loss: 0.2324 - Jaccard: 0.9056 - F1: 0.9484 - Recall: 0.9606 - Precision: 0.9391
+
+Valid F1 yaxshilandi: 0.9485 dan 0.9486 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 134 | Epoch Time: 2m 59s
+	Train Loss: 0.1867 - Jaccard: 0.9149 - F1: 0.9538 - Recall: 0.9601 - Precision: 0.9492
+	 Val. Loss: 0.2316 - Jaccard: 0.9058 - F1: 0.9486 - Recall: 0.9605 - Precision: 0.9396
+
+Epoch: 135 | Epoch Time: 2m 59s
+	Train Loss: 0.1857 - Jaccard: 0.9154 - F1: 0.9542 - Recall: 0.9614 - Precision: 0.9488
+	 Val. Loss: 0.2336 - Jaccard: 0.9054 - F1: 0.9483 - Recall: 0.9589 - Precision: 0.9404
+
+Epoch: 136 | Epoch Time: 3m 5s
+	Train Loss: 0.1855 - Jaccard: 0.9153 - F1: 0.9541 - Recall: 0.9613 - Precision: 0.9487
+	 Val. Loss: 0.2326 - Jaccard: 0.9056 - F1: 0.9484 - Recall: 0.9589 - Precision: 0.9407
+
+Epoch: 137 | Epoch Time: 3m 6s
+	Train Loss: 0.1862 - Jaccard: 0.9150 - F1: 0.9538 - Recall: 0.9604 - Precision: 0.9492
+	 Val. Loss: 0.2331 - Jaccard: 0.9053 - F1: 0.9482 - Recall: 0.9582 - Precision: 0.9410
+
+Epoch: 138 | Epoch Time: 2m 59s
+	Train Loss: 0.1854 - Jaccard: 0.9153 - F1: 0.9542 - Recall: 0.9604 - Precision: 0.9497
+	 Val. Loss: 0.2331 - Jaccard: 0.9052 - F1: 0.9481 - Recall: 0.9584 - Precision: 0.9407
+
+Epoch: 139 | Epoch Time: 2m 59s
+	Train Loss: 0.1853 - Jaccard: 0.9153 - F1: 0.9540 - Recall: 0.9609 - Precision: 0.9494
+	 Val. Loss: 0.2335 - Jaccard: 0.9051 - F1: 0.9481 - Recall: 0.9583 - Precision: 0.9407
+
+Epoch: 140 | Epoch Time: 2m 59s
+	Train Loss: 0.1859 - Jaccard: 0.9150 - F1: 0.9539 - Recall: 0.9608 - Precision: 0.9489
+	 Val. Loss: 0.2329 - Jaccard: 0.9055 - F1: 0.9484 - Recall: 0.9585 - Precision: 0.9410
+
+Valid F1 yaxshilandi: 0.9486 dan 0.9486 ga. Tekshirishni saqlamoqda: files_Adam/checkpoint.pth
+Epoch: 141 | Epoch Time: 2m 59s
+	Train Loss: 0.1860 - Jaccard: 0.9152 - F1: 0.9541 - Recall: 0.9607 - Precision: 0.9493
+	 Val. Loss: 0.2323 - Jaccard: 0.9059 - F1: 0.9486 - Recall: 0.9607 - Precision: 0.9394
+
+Epoch: 142 | Epoch Time: 2m 59s
+	Train Loss: 0.1859 - Jaccard: 0.9150 - F1: 0.9540 - Recall: 0.9611 - Precision: 0.9488
+	 Val. Loss: 0.2323 - Jaccard: 0.9057 - F1: 0.9485 - Recall: 0.9598 - Precision: 0.9400
+
+Epoch: 143 | Epoch Time: 2m 59s
+	Train Loss: 0.1864 - Jaccard: 0.9147 - F1: 0.9536 - Recall: 0.9604 - Precision: 0.9491
+	 Val. Loss: 0.2324 - Jaccard: 0.9055 - F1: 0.9484 - Recall: 0.9594 - Precision: 0.9402
+
+Epoch: 144 | Epoch Time: 2m 58s
+	Train Loss: 0.1863 - Jaccard: 0.9146 - F1: 0.9537 - Recall: 0.9605 - Precision: 0.9489
+	 Val. Loss: 0.2326 - Jaccard: 0.9055 - F1: 0.9484 - Recall: 0.9592 - Precision: 0.9404
+
+Epoch: 145 | Epoch Time: 2m 59s
+	Train Loss: 0.1860 - Jaccard: 0.9151 - F1: 0.9541 - Recall: 0.9613 - Precision: 0.9486
+	 Val. Loss: 0.2341 - Jaccard: 0.9053 - F1: 0.9483 - Recall: 0.9598 - Precision: 0.9396
+
+Epoch: 146 | Epoch Time: 2m 59s
+	Train Loss: 0.1862 - Jaccard: 0.9148 - F1: 0.9538 - Recall: 0.9608 - Precision: 0.9489
+	 Val. Loss: 0.2329 - Jaccard: 0.9055 - F1: 0.9484 - Recall: 0.9580 - Precision: 0.9415
+
+Epoch: 147 | Epoch Time: 2m 59s
+	Train Loss: 0.1859 - Jaccard: 0.9152 - F1: 0.9540 - Recall: 0.9607 - Precision: 0.9492
+	 Val. Loss: 0.2328 - Jaccard: 0.9054 - F1: 0.9483 - Recall: 0.9593 - Precision: 0.9402
+
+Epoch: 148 | Epoch Time: 2m 59s
+	Train Loss: 0.1864 - Jaccard: 0.9152 - F1: 0.9540 - Recall: 0.9608 - Precision: 0.9490
+	 Val. Loss: 0.2333 - Jaccard: 0.9058 - F1: 0.9486 - Recall: 0.9608 - Precision: 0.9392
+
+Epoch: 149 | Epoch Time: 2m 59s
+	Train Loss: 0.1859 - Jaccard: 0.9152 - F1: 0.9542 - Recall: 0.9607 - Precision: 0.9494
+	 Val. Loss: 0.2328 - Jaccard: 0.9056 - F1: 0.9484 - Recall: 0.9596 - Precision: 0.9400
+
+Epoch: 150 | Epoch Time: 3m 0s
+	Train Loss: 0.1867 - Jaccard: 0.9143 - F1: 0.9533 - Recall: 0.9608 - Precision: 0.9482
+	 Val. Loss: 0.2343 - Jaccard: 0.9057 - F1: 0.9485 - Recall: 0.9619 - Precision: 0.9381
+
