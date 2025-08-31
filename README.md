@@ -74,4 +74,5 @@ Loyihada asosiy fayllar quyidagicha:
 <img width="841" height="448" alt="image" src="https://github.com/user-attachments/assets/e028bd1e-2241-4d6b-96b3-43b5ae27cc55" />
 
 ## 📈 7. Baholash mezonlari
-<img width="1465" height="850" alt="image" src="https://github.com/user-attachments/assets/3bc07567-2ec8-4411-9c0a-ebccbed52ec6" />
+<img width="1465" height="900" alt="image" src="https://github.com/user-attachments/assets/e85355ca-8ad5-448a-abb2-a9fb8a42dbc3" />
+
