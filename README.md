@@ -75,4 +75,22 @@ Loyihada asosiy fayllar quyidagicha:
 
 ## 📈 7. Baholash mezonlari
 <img width="1465" height="900" alt="image" src="https://github.com/user-attachments/assets/e85355ca-8ad5-448a-abb2-a9fb8a42dbc3" />
+<img width="1502" height="1059" alt="image" src="https://github.com/user-attachments/assets/e777e25a-b2ba-4845-9ce6-a5e27bd17ed0" />
 
+## 📦 8. Talablar (Requirements)
+- numpy
+- pandas
+- scikit-learn
+- opencv-python
+- matplotlib
+- torch
+- tensorflow
+- rasterio
+- jupyter
+  
+## 9. Dasturiy interface
+<img width="1473" height="889" alt="image" src="https://github.com/user-attachments/assets/55adcb31-4721-4c37-9e8b-7dfbf786ae17" />
+
+## 👤 10. Muallif
+- Sardor Nig‘matov
+- Aloqa: sardornigmatov2003@gmail.com
