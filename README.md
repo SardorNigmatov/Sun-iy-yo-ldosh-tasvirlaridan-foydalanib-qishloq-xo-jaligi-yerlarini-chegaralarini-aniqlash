@@ -2,6 +2,7 @@
 
 <img width="293" height="172" alt="image" src="https://github.com/user-attachments/assets/661c08a7-90d5-49ad-a120-8845f4164076" />
 <img width="293" height="180" alt="image" src="https://github.com/user-attachments/assets/49b58bff-72ca-4888-8371-409d9be97e66" />
+<img width="293" height="180" alt="image" src="https://github.com/user-attachments/assets/c24b9313-20e0-4283-8f22-f918cdac387b" />
 
 ---
 
@@ -68,3 +69,8 @@ Loyihada asosiy fayllar quyidagicha:
 - └── images/        
 
 ## 📊 6. Vizual natijalar
+<img width="841" height="448" alt="image" src="https://github.com/user-attachments/assets/1de424e4-ab57-4f3f-91cb-30ce1e232091" />
+<img width="735" height="462" alt="image" src="https://github.com/user-attachments/assets/79e0fc55-e656-4206-843e-cb264f032000" />
+<img width="946" height="461" alt="image" src="https://github.com/user-attachments/assets/e028bd1e-2241-4d6b-96b3-43b5ae27cc55" />
+
+
